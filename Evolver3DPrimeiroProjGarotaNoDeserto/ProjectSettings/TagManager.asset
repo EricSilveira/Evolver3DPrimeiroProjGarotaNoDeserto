@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Limite
+  - Inimigo
+  - Plataforma
+  - ProjetilInimigo
+  - ProjetilPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Plataforma
+  - ProjetilInimigo
+  - Inimigo
+  - Player
+  - ProjetilPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3827526235
+    locked: 0
+  - name: Plataforma
+    uniqueID: 4002149951
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
