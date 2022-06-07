@@ -793,11 +793,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c30478bfd5002b4f99e94fd3b8794c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 1436016753}
   maximoX: 20
   minimoX: 0
   maximoY: 2.4
   minimoY: -2.4
-  player: {fileID: 1436016753}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0

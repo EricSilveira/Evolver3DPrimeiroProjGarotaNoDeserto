@@ -13,13 +13,13 @@ public class Bala : MonoBehaviour
     private float velocidade;
     //para a direção da bala caso esteja virado para esquerda a bala vai para esquerda e vice versa
     private Vector2 direcao;
-    //
+    //Para trabalhar no Rigidbody definido no player no caso mexer na fisica
     private Rigidbody2D rb;
     //para definir os valores na plataforma unity
     [SerializeField]
-    //
+    //Para colocar o objeto de animacao de explosao
     private GameObject explosao;
-    //
+    //Para definir tempo de espera
     private float tempo = 0.8f;
 
 
