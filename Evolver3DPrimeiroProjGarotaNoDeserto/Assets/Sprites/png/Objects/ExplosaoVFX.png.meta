@@ -78,6 +78,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -544,6 +545,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ExplosaoVFX_6: 2847980298909278372
+      ExplosaoVFX_12: -3780113902893243084
+      ExplosaoVFX_7: -7998507746465511212
+      ExplosaoVFX_16: -4832875881681463509
+      ExplosaoVFX_13: -1438322283725572818
+      ExplosaoVFX_17: 6216806018614290194
+      ExplosaoVFX_1: -7278449187267562309
+      ExplosaoVFX_9: -852886100400900054
+      ExplosaoVFX_15: 5757765924270313791
+      ExplosaoVFX_5: -8269244354349989809
+      ExplosaoVFX_0: 1347783567127541392
+      ExplosaoVFX_10: 3741178601674686832
+      ExplosaoVFX_2: -8604106189282321047
+      ExplosaoVFX_14: 7636844792792254680
+      ExplosaoVFX_3: -1583388824025086860
+      ExplosaoVFX_4: 4522555746270830195
+      ExplosaoVFX_8: -1645415981109481642
+      ExplosaoVFX_11: 7917866957878327156
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
